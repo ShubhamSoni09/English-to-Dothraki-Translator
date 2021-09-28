@@ -1,6 +1,6 @@
-# DOTHRAKI SPEAK
+# English to Dothraki Translator
 
-**This project is a translation app and mark4 of the levelZero, wherein it takes the user input text and uses an API to convert the text into Dothraki Language**
+**This project is a translation app and mark6 of the levelZero, wherein it takes the user input text and uses an API to convert the text into Dothraki Language**
 
 *Dothraki is a fictional language created by George R. R. Martin in his book A Song of Ice and Fire*
 
